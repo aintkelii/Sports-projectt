@@ -35,7 +35,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: orange;
   color: white;
   padding: 20px 0;
   text-align: center;
@@ -58,7 +58,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: white;
+  color: grey;
   text-decoration: none;
   font-weight: bold;
   text-transform: uppercase;
@@ -67,7 +67,7 @@ nav ul li a {
 section.form-section {
   width: 60%;
   margin: 30px auto;
-  background-color: white;
+  background-color: black;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -76,7 +76,7 @@ section.form-section {
 h2 {
   text-align: center;
   margin-bottom: 20px;
-  color: #333;
+  color: orange;
 }
 
 /* Styling for the form fields */
@@ -88,7 +88,7 @@ form {
 
 label {
   font-size: 1.1em;
-  color: #555;
+  color: orange;
 }
 
 input[type="text"] {
@@ -106,7 +106,7 @@ input[type="text"]:focus {
 
 button[type="submit"] {
   padding: 10px;
-  background-color: #4caf50;
+  background-color: khaki;
   color: white;
   font-size: 1.1em;
   border: none;
