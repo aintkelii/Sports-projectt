@@ -5,5 +5,20 @@
 }
 header {
   background-color: orange;
-  height: 50px;
+  height: 80px;
+}
+img {
+  padding: 100px;
+  width: 500px;
+  height: 500px;
+  align-items: center;
+}
+p {
+  font-size: medium;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 400;
+}
+.class {
+  background-color: orange;
+  height: 400px;
 }
