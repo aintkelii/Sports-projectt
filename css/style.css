@@ -13,9 +13,9 @@ img {
   height: 500px;
 }
 p {
-  font-size: medium;
+  font-size: large;
   font-family: "Courier New", Courier, monospace;
-  font-weight: 400;
+  font-weight: 500;
 }
 .class {
   background-color: orange;
@@ -27,9 +27,11 @@ p {
   font-style: oblique;
   font-size: medium;
 }
+
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background: url("https://www.shutterstock.com/image-vector/osborn-god-bears-vector-design-260nw-1479035435.jpg")
+    center/cover;
   color: #333;
   line-height: 1.6;
 }
