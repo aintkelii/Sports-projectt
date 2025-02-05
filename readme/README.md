@@ -1,20 +1,51 @@
-PROJECT NAME:
-sports Project
+Osbon Sports Organization Website
 
-DESCRIPTION:
-The sports project is a project that helps players and mentors of players have an easy time during the injury period so as to prevent extinction of local talent especially in Kenya
+Overview
 
-AUTHOR :
-George Keli
+The Osbon Sports Organization website is designed to assist athletes and their mentors in managing sports-related injuries. The website provides information about different types of sports injuries, estimated recovery times, and the services offered by the organization.
 
-SETUP INSTRUCTION:
-1.Clone the repository
-2.Open index.html any other that will be available for you
-3.Enter your esential information and move on
-4.click on submit
+Features
 
-CONTENT:
-html(index,about-us,contact,home)
-js(about-us,contact,home,inex)
-readme
-css(style.css)
+Homepage: Introduction to the organization and its mission.
+
+Navigation Menu: Links to Home, About Us, and Contact Us pages.
+
+Injury Information Table: Details about common sports injuries and their recovery timelines.
+
+Gallery: Images showcasing professional athletes who have benefited from the organization's services.
+
+Responsive Design: Ensures accessibility across different devices.
+
+Technologies Used
+
+HTML5: Structure of the website.
+
+CSS3: Styling and layout.
+
+JavaScript: Enhancing interactivity (linked through index.js).
+
+Installation & Usage
+
+Clone or download the repository.
+
+Open index.html in any modern web browser.
+
+Ensure that the css/style.css and js/index.js files are properly linked.
+
+Future Improvements
+
+Implement a contact form for inquiries.
+
+Enhance responsiveness with improved CSS media queries.
+
+Integrate backend support for user data storage.
+
+Add a blog section for injury prevention tips.
+
+Author
+
+Osbon Sports Organization
+
+License
+
+This project is open-source and can be modified for personal or professional use
