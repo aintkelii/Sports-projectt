@@ -177,3 +177,6 @@ td {
 .contact-details a:hover {
   text-decoration: underline;
 }
+.long {
+  font-size: xx-large;
+}
