@@ -44,7 +44,7 @@ Add a blog section for injury prevention tips.
 
 Author
 
-Osbon Sports Organization
+George Keli
 
 License
 
