@@ -143,6 +143,13 @@ th {
   font-family: "Times New Roman", Times, serif;
   font-weight: 800;
   font-size: x-large;
+  border: 10px solid orange;
+}
+table {
+  width: 100%;
+}
+td {
+  border: 1px solid orange;
 }
 .contact-box {
   max-width: 600px;
@@ -163,7 +170,7 @@ th {
 }
 
 .contact-details a {
-  color: #0056b3;
+  color: orange;
   text-decoration: none;
 }
 
