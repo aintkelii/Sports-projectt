@@ -5,7 +5,7 @@
 }
 header {
   background-color: orange;
-  height: 80px;
+  height: 150px;
 }
 img {
   padding: 100px;
@@ -13,24 +13,24 @@ img {
   height: 500px;
 }
 p {
-  font-size: large;
-  font-family: "Courier New", Courier, monospace;
-  font-weight: 500;
+  font-size: x-large;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 800;
 }
 .class {
   background-color: orange;
   height: 400px;
 }
 .jp {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-weight: 700;
   font-style: oblique;
-  font-size: medium;
+  font-size: x-large;
 }
 
 body {
   font-family: Arial, sans-serif;
-  background: url("https://www.shutterstock.com/image-vector/osborn-god-bears-vector-design-260nw-1479035435.jpg")
+  background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fosborn-god-bears-vector-design-1479035435&psig=AOvVaw0dd4tEGJA7DET2fpEgGfrN&ust=1738818884358000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDVnN7jq4sDFQAAAAAdAAAAABAJ")
     center/cover;
   color: #333;
   line-height: 1.6;
