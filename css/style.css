@@ -179,3 +179,9 @@ td {
 .long {
   font-size: xx-large;
 }
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+  font-weight: 700;
+  color: orange;
+}
